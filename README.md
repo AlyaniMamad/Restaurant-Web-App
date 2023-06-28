@@ -1,6 +1,5 @@
 # Restaurant-Web-App
 
-Welcome to my project!
 <h2 Align="center">Home Page</h2>
 
 ![Demo](https://github.com/AlyaniMamad/Live-Webs-GIFs/blob/Alyani/Resturant.png)
